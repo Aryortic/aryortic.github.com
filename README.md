@@ -25,7 +25,7 @@
 <h3 align="center">🎮 YouTuber | Live Streamer | Content Creator</h3>
 
 <p align="center">
-  <a href="https://www.youtube.com/@aryorti_c" target="_blank">
+  <a href="https://youtube.com/@aryorti_c?si=NeOcFdDDkmAPJiFw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/aryortic__" target="_blank">
