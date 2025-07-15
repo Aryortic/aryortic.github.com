@@ -1,7 +1,7 @@
 <!-- Profile README.md -->
 
 <h1 align="center">Hi 👋, I'm Aryortic</h1>
-<h3 align="center">I am from India</h3>
+<h3 align="center"> WELCOME </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Let's+build+something+awesome!">
@@ -56,16 +56,8 @@
 - 💡 Lights: N/A
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARYORTICshow_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYORTIC&layout=compact&theme=tokyonight" height="180" />
-</p>
-
 ---
 
 ### 📫 Contact Me
-- 📧 Email:m4aryortic.com`
+- 📧 Email :m4aryorti@gmail.com
 - 💬 
