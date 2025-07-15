@@ -5,6 +5,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=WelCOME TO MY PROFILE!;I+Aryortic+%F0%9F%92%BB;Let's+build+something+awesome!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Welcome+to+my+personal+profile!;I+love+Games+%F0%9F%92%BB;Let's+build+something+awesome!">
+
 </p>
 
 ---
