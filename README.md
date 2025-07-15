@@ -17,12 +17,55 @@
 
 ---
 
-### 🚀 Languages and Tools
-<p>
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
+### 🚀YOUTUBER
+<!-- README.md -->
+
+<h1 align="center">Hi 👋, I'm ARYORTIC</h1>
+<h3 align="center">🎮 YouTuber | Live Streamer | Content Creator</h3>
+
+<p align="center">
+  <a href="https://www.youtube.com/@aryorti-c" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/aryortic__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/aryortic" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+### 🧠 About Me
+- 🔴 I upload weekly gaming videos and funny content on **YouTube**
+- 💬 Ask me about **Presonal Query, Gaming tips, Streaming Tips**
+- 🎯 Goal: Reach **100K Subscribers** in 2025!
+- 🎮 Favorite Games: **BGMI,MINI MILITA, ONLINE GAMES, FREEFIRE**
+
+---
+
+### 🔥 My Setup
+- MOBILE:VIVO T3 PRO
+- EIDITING: KINE MASTER,CAPCUT
+- 🎙 Mic: N/A
+- 📷 Cam: MOBILE CAMERA
+- 💡 Lights: N/A
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARYORTICshow_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARYORTIC&layout=compact&theme=tokyonight" height="180" />
+</p>
+
+---
+
+### 📫 Contact Me
+- 📧 Email:m4aryortic.com`
+- 💬 
