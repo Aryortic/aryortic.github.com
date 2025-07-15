@@ -61,3 +61,68 @@ p align="center">
 ### 📫 Contact Me
 - 📧 Email :m4aryorti@gmail.com
 - 💬 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Social Media Links</title>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #121212;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-family: Arial, sans-serif;
+    }
+
+    .social-container {
+      text-align: center;
+    }
+
+    .social-icons {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 30px;
+    }
+
+    .social-icons a {
+      color: white;
+      font-size: 40px;
+      transition: transform 0.3s, color 0.3s;
+      text-decoration: none;
+    }
+
+    .social-icons a:hover {
+      transform: scale(1.2);
+    }
+
+    .fa-youtube:hover { color: #FF0000; }
+    .fa-instagram:hover { color: #E1306C; }
+    .fa-telegram:hover { color: #0088cc; }
+    .fa-facebook:hover { color: #1877f2; }
+    .fa-twitter:hover { color: #1DA1F2; }
+
+    h1 {
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <div class="social-container">
+    <h1>Follow Me</h1>
+    <div class="social-icons">
+      <a href="https://youtube.com/" target="_blank"><i class="fab fa-youtube"></i></a>
+      <a href="https://instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+      <a href="https://t.me/" target="_blank"><i class="fab fa-telegram"></i></a>
+      <a href="https://facebook.com/" target="_blank"><i class="fab fa-facebook"></i></a>
+      <a href="https://twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
+    </div>
+  </div>
+</body>
+</html>
+
