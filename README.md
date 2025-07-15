@@ -35,24 +35,24 @@
   <link href="https://fonts.googleapis.com/css2?family=Orbitron&display=swap" rel="stylesheet">
   <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+    * { margin: 1; padding: 4; box-sizing: border-box; }
     body {
       font-family: 'Orbitron', sans-serif;
-      background-color: #0f0f0f;
-      color: #fff;
+      background-color: #green;
+      color: #red;
     }
     header {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      background: #111;
+      background: #11;
       padding: 15px 30px;
       border-bottom: 2px solid #ff004f;
       animation: slideIn 1s ease-out;
     }
     header h1 {
       font-size: 2rem;
-      color: #ff004f;
+      color: #2f;
     }
     .social-icons a {
       color: white;
@@ -65,35 +65,7 @@
       transform: scale(1.2);
     }
 
-    .hero {
-      background: linear-gradient(to right, #1e1e1e, #111);
-      padding: 80px 30px;
-      text-align: center;
-      animation: fadeIn 2s ease;
-    }
-    .hero h2 {
-      font-size: 3rem;
-      background: linear-gradient(to right, #ff004f, #6e00ff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-    .hero p {
-      margin-top: 10px;
-      font-size: 1.2rem;
-      color: #ccc;
-    }
-    .btn {
-      margin-top: 20px;
-      padding: 12px 25px;
-      background: #ff004f;
-      border: none;
-      border-radius: 8px;
-      color: white;
-      font-size: 1rem;
-      cursor: pointer;
-      transition: 0.3s;
 
----
 
 >
   </a>
