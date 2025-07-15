@@ -23,17 +23,16 @@
 
 <h1 align="center">Hi 👋,  </h1>
 <h3 align="center">🎮 YouTuber | Live Streamer | Content Creator</h3>
-
-<p align="center">
+p align="center">
   <a href="https://youtube.com/@aryorti_c?si=NeOcFdDDkmAPJiFw" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/aryortic__" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
+  <a href="https://t.me/aryortic"="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  
+  </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
