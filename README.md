@@ -22,10 +22,10 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋,  </h1>
-<h3 align="center">🎮 YouTuber | Live Streamer | Content Creator</h3>
+<h3 align="center">🎮 YouTuber | Live Streamer | Content Creator </h3>
 
 
-p align="center">
+
 
 <a href="https://youtube.com/@aryorti_c" target="_blank">
                 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
@@ -38,7 +38,6 @@ p align="center">
 <a href="https://t.me/aryortic" target="_blank">
                 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-
 </p>
 
 ---
