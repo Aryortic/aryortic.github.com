@@ -39,9 +39,6 @@
                 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-
----
-
 ### 🧠 About Me
 - 🔴 I upload weekly gaming videos and funny content on **YouTube**
 - 💬 Ask me about **Presonal Query, Gaming tips, Streaming Tips**
