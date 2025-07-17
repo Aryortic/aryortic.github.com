@@ -61,20 +61,5 @@
 - 📧 Email :m4aryorti@gmail.com
 - 💬
 
-- <a href="https://www.instagram.com/aryortic__" target="_blank">
-               <img scr="html.png" alt"instagram">
-</a>
-<!DOCTYPE html>
-<html>
-    <body>
-        <a href="https://youtube.com/@aryorti_c" target="_blank">
-                <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-        <img src="https://github.com/Aryortic/aryortic.github.com/blob/main/html.png.jpg"height="100" width="200">
-
-<a href="https://www.instagram.com/aryortic__" target="_blank">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-        <img src="https://github.com/Aryortic/aryortic.github.com/blob/main/html.png1.jpg"height="200" width="250">
 
 
