@@ -75,9 +75,7 @@
 <a href="https://www.instagram.com/aryortic__" target="_blank">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
-        
-    </body>
+        <img src="https://github.com/Aryortic/aryortic.github.com/blob/main/html.png1.jpg"height="400" width="550">
 </html>
 
 - 
